@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/', function () {
+    return 'anjing';
+
+    Route::get('/', function () {
+        return 'erik ical';
+
+});
